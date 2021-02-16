@@ -1,0 +1,26 @@
+{
+  "name": "ExampleCharElectron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanGuevara90/ExampleCharElectron.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanGuevara90/ExampleCharElectron/issues"
+  },
+  "homepage": "https://github.com/JuanGuevara90/ExampleCharElectron#readme",
+  "devDependencies": {
+    "electron": "^11.2.3"
+  },
+  "dependencies": {
+    "chart.js": "^2.9.4"
+  }
+}
